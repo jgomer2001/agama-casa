@@ -1,1 +1,18 @@
-{}
+{
+    "casa": {
+        "projectName": "casa",
+        "description": "Casa",
+        "type": "community",
+        "author": "jgomer2001",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/jgomer2001/agama-casa",
+        "githubUri": "https://github.com/jgomer2001/agama-casa",
+        "license": "apache-2.0",
+        "lastUpdated": "1727885847225",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
