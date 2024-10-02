@@ -1,2 +1,2 @@
 ### casa
- Casa
+ A 2FA flow featuring pluggable authentication methods
