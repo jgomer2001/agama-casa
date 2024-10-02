@@ -1,2 +1,1 @@
-# agama-casa
-Authentication featuring pluggable authentication methods
+### Agama Project Folder
